@@ -5,9 +5,9 @@
 - The dashboard provides key performance indicators(KPIs) and visualizations to explore employee attrition based on education, age, job role, salary slab, years at company, and gender.
 - Interactive department slicers allow users to filter the dashboard and compare employee data across  different departments.
 # tools & technologies:
--powerBI
--Powerquery
--DAx
+- PowerBI
+- PowerQuery
+- DAX
 #  Key Performance Indicators(KPIs):
 The Dashboard includes the followoing KPIs:-
 - Employee Count
